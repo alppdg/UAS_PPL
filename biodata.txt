@@ -1,0 +1,9 @@
+Nama:Alif Danang Pinangkis
+NPM:19312168
+Prodi:Informatika
+
+Link hasil perencanaan sistem menggunakan BRD:
+https://drive.google.com/file/d/1E90y6phJrn51KR1sXKeGdCd1M0SfuUdU/view?usp=sharing
+
+Link hasil perencanaan sistem menggunakan Trello:
+https://trello.com/invite/b/57Vw1jJG/ATTI862db85ee50e0b3d9fc9295e97cea03dB05D8F77/klinik-bersalin

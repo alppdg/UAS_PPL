@@ -1,0 +1,26 @@
+Nama: Alif Danang Pinangkis
+NPM: 19312168
+Kode Soal: B
+
+1. Sistem apa yang anda kembangkan?
+Jawab: 
+Sistem yang dikembangkan adalah sebuah Sistem Informasi Manajemen Klinik Bersalin XYZ.
+
+2. Permasalahan apa yang terjadi pada studi kasus anda?
+Jawab: 
+Kurang efektif dan efisiennya proses registrasi pasien, pelaporan, dan pembayaran karena belum adanya sistem informasi terintegrasi.
+Beban kerja bertambah, penumpukan berkas, proses pencarian informasi yang lama, serta risiko kerusakan atau kehilangan data.
+
+3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
+Jawab: 
+Solusi yang diberikan adalah mengembangkan platform web terintegrasi dengan data klinik. Sistem ini akan memungkinkan pengelolaan data pelanggan, bidan, dan RS rujukan dengan lebih efisien. Module admin akan digunakan untuk manajemen data, sementara module user akan menampilkan data bidan dan RS rujukan kepada pasien.
+
+4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
+Jawab: 
+Nilai lebih dari solusi ini adalah memberikan kemudahan akses informasi secara efektif dan real-time kepada masyarakat, serta mengurangi beban kerja dan risiko terhadap data klinik.
+
+5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
+Jawab: 
+Waktu pengembangan terbatas hanya dalam waktu 3 bulan.
+Anggaran terbatas untuk biaya hosting dan domain.
+Infrastruktur IT pada klinik yang belum memadai.
